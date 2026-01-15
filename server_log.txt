@@ -1,0 +1,22 @@
+
+> futuristic-landing-page@1.0.0 dev
+> next dev
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 1839ms
+ ○ Compiling / ...
+ ✓ Compiled / in 10.2s (1235 modules)
+ GET / 200 in 10869ms
+ ✓ Compiled in 953ms (1226 modules)
+ GET / 200 in 251ms
+ ✓ Compiled in 1074ms (1226 modules)
+ GET / 200 in 280ms
+ ✓ Compiled in 1068ms (1226 modules)
+ GET / 200 in 397ms
+ ✓ Compiled in 815ms (1226 modules)
+ GET / 200 in 102ms
+ ✓ Compiled in 914ms (1226 modules)
+ GET / 200 in 96ms
